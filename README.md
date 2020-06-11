@@ -1,4 +1,4 @@
-# Simple Video app with text also beifits.
+# Simple Video app with text also benifits.
 This is an node.js app that has a simple ui, mainly build to have peer-to-peer video along with textchat application. 
 You can run this application locally by
 1. "npm install"
