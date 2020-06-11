@@ -4,5 +4,8 @@ You can run this application locally by
 1. "npm install"
 2. (optional) "npm watch" or "npm run watch" if you want to make any changes since we need the main.js (in public folder) to be converted into bundle.js, since we need some node.js functionality in main.js.
 3. "npm start" or "npm run start"
+
+## Simultaniously only 2 peers(clients) can access this app. Will work in future to add authentication and authorization
+
 This can be viwed in the heroku app https://simple-video-text-app.herokuapp.com/
 Thank you :-)
